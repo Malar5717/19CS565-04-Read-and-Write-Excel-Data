@@ -28,6 +28,8 @@ The automation creates a duplicate Excel file:
 
 * **File Name:** `output.xlsx`
 * **Contents:** Exact replication of all data and headers from `input.xlsx`.
+  
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/03753f7a-82fd-445b-b08a-d37f011459b4" />
 
 files attached.
 ---
